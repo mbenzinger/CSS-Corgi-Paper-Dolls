@@ -1,3 +1,30 @@
 nav{
- font-size: large;
+ font-size: x-large;
+}
+
+.funny-glasses{
+    position: relative;
+    bottom: 108px;
+    Left: 212px;
+}
+
+.bandana{
+    position: absolute;
+    left:115px;
+    top: 175px;
+}
+
+.pawprint{
+    position: fixed;
+    top:45px;
+    left:65px;
+}
+
+.luna{
+    position: sticky;
+    left:15px;
+}
+
+.top-hat{
+    z-index:1;
 }
